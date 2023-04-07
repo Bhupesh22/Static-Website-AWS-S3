@@ -1,5 +1,7 @@
 # This website uses Git Actions and is deployed on AWS S3
 
+[URL](http://bhupesh-static-website-hosting.s3-website-us-east-1.amazonaws.com/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
