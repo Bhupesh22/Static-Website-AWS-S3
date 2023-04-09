@@ -1,4 +1,4 @@
-# This website uses Git Actions and is deployed on AWS S3
+# This website is deployed on AWS S3 using IAM access and cache invalidation rules applied in AWS CloudFront, and the deployment is automated using Git Actions.
 
 [http://bhupesh-static-website-hosting.s3-website-us-east-1.amazonaws.com/](http://bhupesh-static-website-hosting.s3-website-us-east-1.amazonaws.com/)
 
