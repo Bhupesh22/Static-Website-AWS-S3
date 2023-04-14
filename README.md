@@ -1,6 +1,12 @@
-# This website is deployed on AWS S3 using IAM access and cache invalidation rules applied in AWS CloudFront, and the deployment is automated using Git Actions.
+# Deployed App URL
 
 [http://bhupesh-static-website-hosting.s3-website-us-east-1.amazonaws.com/](http://bhupesh-static-website-hosting.s3-website-us-east-1.amazonaws.com/)
+
+# Architecture Diagram.
+
+This website is deployed on AWS S3 using IAM access and cache invalidation rules applied in AWS CloudFront, and the deployment is automated using Git Actions.
+
+![Diagram](architecture_diagram_-_react_app.png)
 
 # Getting Started with Create React App
 
